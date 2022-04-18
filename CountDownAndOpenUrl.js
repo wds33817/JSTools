@@ -4,6 +4,6 @@ var x = setInterval(function() {
   console.log(distance);
   if (distance == 0) {
     clearInterval(x);
-    window.open("https://www.google.com.au");
+    window.open("https://www.youtube.com");
   }
 }, 1000);
